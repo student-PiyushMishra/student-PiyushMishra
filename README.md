@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @student-PiyushMishra
+- 👋 Hi, I’m Piyush Mishra
 - 👀 I’m interested in: JavaScript, Python.
 - 🌱 I’m currently learning: Web development and machine learning.
 - 📫 How to reach me: Mail me at student.piyushmishra@gmail.com
