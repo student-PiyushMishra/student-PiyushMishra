@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piyush Mishra
 - 👀 I’m interested in: JavaScript, Python.
-- 🌱 I’m currently learning: Web development and machine learning.
+- 🌱 I’m currently learning: Web development and Gen AI.
 - 📫 How to reach me: Mail me at student.piyushmishra@gmail.com
 - 😄 Pronouns: He, none.
